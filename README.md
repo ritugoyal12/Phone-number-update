@@ -11,7 +11,7 @@ The solution utilizes the following:
          
          
 ---Linux command----
-Please refer  update_phone.txt file to run the command in terminal
+Please refer Command1 in update_phone.txt file to run the command in terminal
 
 The command will change the following formats to 202-456-1414.
 ##########
