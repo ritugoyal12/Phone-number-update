@@ -1,5 +1,5 @@
 # Command1 
 sed -E -i 's/\+?1?[-. (]?[0-9]{3}[-. )]?[A-Z0-9]{3}[ .-]?[A-Z0-9]{4}/202-456-1414/g' /var/www/*.html
 
-# Command2 for patterns such as (800)-800-8000
+# Command2 for patterns such as (800)-800-8000, (800) 800-800
 sed -E -i 's/\+?1?[-. (]*[0-9]{3}[-. )]*[A-Z0-9]{3}[ .-]*[A-Z0-9]{4}/202-456-1414/g' /var/www/*.html
