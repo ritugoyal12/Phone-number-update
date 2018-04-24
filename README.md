@@ -12,6 +12,7 @@ The solution utilizes the following:
          
 ---Linux command----
 sed -E -i 's/\+?1?[-. (]?[0-9]{3}[-. )]?[A-Z0-9]{3}[ .-]?[A-Z0-9]{4}/202-456-1414/g' /var/www/*.html
+(Please refer to update_phone.txt file to run the command in terminal).
 
 The command will change the following formats to 202-456-1414.
 ##########
